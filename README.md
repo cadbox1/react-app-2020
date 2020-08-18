@@ -2,6 +2,8 @@
 
 React App 2020 is a demonstration of some of my favourite tools and patterns for React in 2020.
 
+I also have a monorepo version of this app with [react-monorepo-2020](https://github.com/cadbox1/react-monorepo-2020) but I prefer this version.
+
 ## 🚀 Demo
 
 - [App](https://react-app-2020.netlify.com/)
